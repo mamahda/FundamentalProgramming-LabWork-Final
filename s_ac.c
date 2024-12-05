@@ -2,7 +2,6 @@
 
 int main()
 {
-    long long uang = 300000, ongkir = 50000;
     long long n, k, harga;
     int diskon = 0, disongkir = 0;
     scanf("%lld %lld", &n, &k);
@@ -23,8 +22,6 @@ int main()
     case 5:
         diskon = 40;
         break;
-    default:
-        break;
     }
 
     harga = k - (k * diskon / 100);
@@ -42,9 +39,9 @@ int main()
         disongkir = 25;
     }
 
-    ongkir = ongkir - (ongkir * disongkir / 100);
+    int ongkir = 50000 - (50000 * disongkir / 100);
     long long total = harga + ongkir;
-    long long sisa = uang - total;
+    long long sisa = 300000 - total;
 
     if (sisa > 0)
     {

@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\Kuliah_Semester 1\\FunPro_FinalPraktikum\\a.c","tests":[{"id":1733405453365,"input":"6 3 ","output":"5"},{"id":1733405610951,"input":"3 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Kuliah_Semester 1\\FunPro_FinalPraktikum\\a.c","group":"local","local":true}
