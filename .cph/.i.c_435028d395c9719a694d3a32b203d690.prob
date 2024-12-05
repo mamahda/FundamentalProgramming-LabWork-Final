@@ -1,0 +1,1 @@
+{"name":"Local: i","url":"d:\\Kuliah_Semester 1\\FunPro_PraktikumFP\\i.c","tests":[{"id":1733246929309,"input":"2 3 \n0 3 5 \n7 9 1","output":"Terdapat 4 jalan untuk kucing oren pulang"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Kuliah_Semester 1\\FunPro_PraktikumFP\\i.c","group":"local","local":true}

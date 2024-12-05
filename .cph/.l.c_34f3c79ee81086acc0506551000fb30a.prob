@@ -1,0 +1,1 @@
+{"name":"Local: l","url":"d:\\Kuliah_Semester 1\\FunPro_PraktikumFP\\l.c","tests":[{"id":1733242516378,"input":"24","output":"Luas permukaan: 46.06"},{"id":1733242543570,"input":"36","output":"Luas permukaan: 60.36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Kuliah_Semester 1\\FunPro_PraktikumFP\\l.c","group":"local","local":true}
