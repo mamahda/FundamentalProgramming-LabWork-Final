@@ -17,9 +17,9 @@ int main()
         }
         else
         {
-            str2[n] = str1[i];
         }
 
+        str2[n] = str1[i];
         n += t;
         if (n >= len)
         {

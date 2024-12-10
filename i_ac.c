@@ -26,7 +26,7 @@ void dfs(int x, int y)
         if (nx >= 0 && nx < n && ny >= 0 && ny < m)
         {
             if (!visited[nx][ny] && matrix[nx][ny] % 2 == 1)
-            {
+            {   
                 dfs(nx, ny);
             }
         }

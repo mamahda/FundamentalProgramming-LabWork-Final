@@ -1,0 +1,1 @@
+{"name":"Local: o_ac","url":"d:\\Kuliah_Semester 1\\FunPro_FinalPraktikum\\o_ac.c","tests":[{"id":1733478139840,"input":"4\nlyney beraksi\nhutao beraksi\nhutao istirahat\nfurina beraksi","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Kuliah_Semester 1\\FunPro_FinalPraktikum\\o_ac.c","group":"local","local":true}
